@@ -1,3 +1,4 @@
+#Hola papus, bienvenidos a papulandia!!!!
 import sys, matplotlib.pyplot as plt, networkx as nx
 from matplotlib.patches import FancyArrowPatch
 
